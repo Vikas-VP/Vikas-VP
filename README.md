@@ -2,8 +2,8 @@
 
 ```js
 const Vikas = FrontendEngineer({
-  skills: ['React', 'Next.js', 'TypeScript', 'UX'],
-  workplace: 'Appstitch Technologies Pvt Ltd',
+  skills: ['React', 'Next.js', 'TypeScript', 'UX','WebChat.js','Vite'],
+  workplace: 'LTM',
   location: 'Bengaluru, India',
   passion: 'Crafting sleek & scalable web apps 🚀'
 });
@@ -65,7 +65,7 @@ _Graduated: July 2019_
 
 ## 🌍 Let's Connect
 
-- 🌐 [**Portfolio Website**](https://www.vikasvp.com)
+- 🌐 [**Portfolio Website**](https://vikas-portfolio-vikasvps-projects.vercel.app/)
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/vikas-v-p)
 - 📧 [**Email**](mailto:vpviki1997@gmail.com)
 
